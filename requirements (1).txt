@@ -1,0 +1,8 @@
+gradio==4.44.0
+huggingface_hub==0.22.2
+matplotlib
+seaborn
+numpy==2.0.2
+pandas==2.2.2
+scikit-learn==1.6.1
+joblib==1.5.2
